@@ -3,9 +3,11 @@
 Welcome to my GitHub profile! I'm passionate about building dynamic mobile & web applications and bringing ideas to life through code.
 
 ## 🚀 About Me
-- **🌐 Interests:** MERN stack web development, React Native, TypeScript, and UI/UX design.
-- **💻 Currently:** Working as a freelancer, specializing in full-stack web development.
-- **🤝 Collaborations:** Always open to collaborating on innovative web applications and contributing to open-source projects.
+- **🌐 Interests:** I specialize in MERN stack web development, React Native, TypeScript, and UI/UX design.
+- **💻 Current Role:** As a freelancer, I focus on delivering full-stack web development solutions that meet client needs.
+- **🔌 Systems Integration:** With a strong foundation in electronics, I excel in integrating software systems with hardware components, whether integrating sensors, alarm systems, or camera notification applications, enabling the creation of innovative and creative solutions.
+- **🤝 Collaboration:** I am always eager to collaborate on groundbreaking web & mobile applications and contribute to open-source projects.
+
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, TypeScript
