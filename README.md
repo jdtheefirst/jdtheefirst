@@ -11,10 +11,11 @@ Welcome to my GitHub profile! I'm passionate about building dynamic mobile & web
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, Node.js, Express, MongoDB, DynamoDB
+- **Frameworks:** React, NextJs, Node.js, Express, Strapi
+- **Databases:**  MongoDB, DynamoDB, PostgreSQL
 - **Tools & Technologies:** 
-  - **Frontend:** React, React Native, Tailwind CSS, NativeWind, Material-UI, React-Bootstrap, Chakra-UI, Redux-Toolkit, Context API
-  - **Backend:** Express.js, Node.js, Appwrite
+  - **Frontend:** React, React Native, Tailwind CSS, NativeWind, Material-UI, React-Bootstrap, Chakra-UI, Shadcn/ui, Redux-Toolkit, Context API
+  - **Backend:** Express.js, Node.js, Appwrite, Firebase, Supabase
   - **Testing:** Jest, Chai
   - **Deployment:** AWS (including Lambda@Edge and CloudFront), Heroku, Vercel, Render
 
