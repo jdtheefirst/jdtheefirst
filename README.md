@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jdtheefirst
+# 👋 Hi, I’m Joseph Ngatia
 
 Welcome to my GitHub profile! I'm passionate about building dynamic mobile & web applications and bringing ideas to life through code.
 
@@ -19,19 +19,13 @@ Welcome to my GitHub profile! I'm passionate about building dynamic mobile & web
   - **Testing:** Jest, Chai
   - **Deployment:** AWS (including Lambda@Edge and CloudFront), Heroku, Vercel, Render
 
-## 🌱 I’m Currently Learning
-- Advanced TypeScript features
-- Cloud-based development practices
-- Performance optimization techniques in web & mobile applications
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&color=339933)
+
 
 ## 📫 How to Reach Me
 - **Call/WhatsApp:** [254113062599](tel:254113062599)
 - **Social Media:** [@jdtheefirst](https://twitter.com/jdtheefirst)
-
-## 📂 Projects
-Check out some of my projects:
-- [IntimatesPlus](https://github.com/jdtheefirst/IntimatesPlus) - Startup - Web App
-- [Aora](https://github.com/jdtheefirst/aora) - Mobile Video App
-- [IP](https://github.com/jdtheefirst/IP) - Startup - Mobile App
 
 Feel free to explore my repositories and reach out if you have any questions or if you’d like to collaborate!
